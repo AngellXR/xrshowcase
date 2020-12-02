@@ -1,0 +1,11 @@
+div {
+  font-family: serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #fcfcfc;
+  position: absolute;
+  width: 578px;
+  height: 156px;
+  left: 30px;
+  top: 21px;
+}
