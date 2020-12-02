@@ -1,4 +1,4 @@
-title {
+cardbody {
   font-family: sans-serif;
   font-size: 16px;
   font-weight: normal;
@@ -6,7 +6,7 @@ title {
   position: absolute;
 }
 
-body {
+cardlabel {
   font-family: serif;
   font-size: 48px;
   font-weight: bold;
