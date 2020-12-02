@@ -1,4 +1,12 @@
-h1 {
+title {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: #fcfcfc;
+  position: absolute;
+}
+
+body {
   font-family: serif;
   font-size: 48px;
   font-weight: bold;
