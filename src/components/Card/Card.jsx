@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import CardTitle from '../CardTitle/CardTitle.js';
+import CardBodyText from '../CardBodyText/CardBodyText.js';
+
 
 
 const StyledCard = styled.div`
@@ -23,9 +25,8 @@ export default function Card(props) {
     return (
         <StyledCard>
             <img src="http://www.fillmurray.com/370/410"></img>
-            {/* <h3>Title of Experience</h3> */}
             <CardTitle />
-            <p>Description of Experience</p>
+            <CardBodyText />
             <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" />
         </StyledCard>

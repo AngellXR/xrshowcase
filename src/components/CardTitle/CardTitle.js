@@ -4,7 +4,7 @@ import '../card.css';
 
 class CardTitle extends Component {
     render() {
-        return <cardlabel> Title of Card </cardlabel>;
+        return <cardlabel> Spaghetti Soup </cardlabel>;
     }
 }
 
