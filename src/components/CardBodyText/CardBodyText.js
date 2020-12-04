@@ -4,7 +4,7 @@ import '../card.css';
 
 class CardBodyText extends Component {
     render() {
-        return <cardbody>This is my body description of the experience. You should totally click this to experience WebXR for yourself. </cardbody>;
+        return <carddescription>This is my body description of the experience. You should totally click this to experience WebXR for yourself. </carddescription>;
     }
 }
 

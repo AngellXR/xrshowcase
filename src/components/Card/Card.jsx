@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import CardTitle from '../CardTitle/CardTitle.js';
+import CardBody from '../CardBody/CardBody.jsx';
 import CardBodyText from '../CardBodyText/CardBodyText.js';
 
 
@@ -25,8 +26,10 @@ export default function Card(props) {
     return (
         <StyledCard>
             <img src="http://www.fillmurray.com/370/410"></img>
+            {/* Commented out bc they are now combined in cardbody
             <CardTitle />
-            <CardBodyText />
+            <CardBodyText /> */}
+            <CardBody />
             <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" />
         </StyledCard>
