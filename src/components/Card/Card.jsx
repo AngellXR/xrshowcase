@@ -8,7 +8,7 @@ const StyledCard = styled.div`
     flex-direction: column;
     align-items: center;
     padding: 0px;
-    position: relative;
+    position: absolute;
     width: 400px;
     height: 549px;
     left: 223px;
