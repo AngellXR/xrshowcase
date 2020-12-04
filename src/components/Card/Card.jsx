@@ -1,9 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import CardTitle from '../CardTitle/CardTitle.js';
 import CardBody from '../CardBody/CardBody.jsx';
-import CardBodyText from '../CardBodyText/CardBodyText.js';
-
 
 
 const StyledCard = styled.div`

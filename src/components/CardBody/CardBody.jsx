@@ -1,11 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
-import CardTitle from '../CardTitle/CardTitle.js';
-import CardBodyText from '../CardBodyText/CardBodyText.js';
+import CardTitle from '../CardTitle/CardTitle.jsx';
+import CardBodyText from '../CardBodyText/CardBodyText.jsx';
 
 
 
-const StyledBody = styled.div`
+const StyledCardBody = styled.div`
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -17,13 +17,13 @@ const StyledBody = styled.div`
     top: 0px;
 `
 
-export default function Body(props) {
+export default function CardBody(props) {
     return (
-        <StyledBody>
+        <StyledCardBody>
             <CardTitle />
             <CardBodyText />
             {/* <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" /> */}
-        </StyledBody>
+        </StyledCardBody>
     );
 }
