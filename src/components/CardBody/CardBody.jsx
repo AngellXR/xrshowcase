@@ -13,7 +13,7 @@ const StyledCardBody = styled.div`
 
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: left;
     padding: 20px;
 
     position: static;
