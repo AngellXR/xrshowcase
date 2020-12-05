@@ -25,14 +25,10 @@ const StyledCard = styled.div`
 export default function Card(props) {
     return (
         <StyledCard>
-            <div>
-                <CardGif />
-            </div>
-            <div>
-                <CardBody />
+            <CardGif />
+            <CardBody />
             {/* <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" /> */}
-            </div>
         </StyledCard>
     );
 }
