@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import CardBody from '../CardBody/CardBody.jsx';
+import CardGif from '../CardGif/CardGif.jsx';
 
 
 const StyledCard = styled.div`
@@ -8,11 +9,13 @@ const StyledCard = styled.div`
     flex-direction: column;
     align-items: center;
     padding: 0px;
+
     position: absolute;
     width: 400px;
     height: 549px;
-    left: 223px;
-    top: 100px;
+    left: calc(50% - 400px/2);
+    top: calc(50% - 549px/2 - 0.5px);
+
     background: #333333;
     border: 10px solid #000000;
     box-shadow: 20px 20px 4px #623CEA;
@@ -22,13 +25,14 @@ const StyledCard = styled.div`
 export default function Card(props) {
     return (
         <StyledCard>
-            <img src="http://www.fillmurray.com/370/410"></img>
-            {/* Commented out bc they are now combined in cardbody
-            <CardTitle />
-            <CardBodyText /> */}
-            <CardBody />
-            <input type="submit" value="game" name="game" />
-            <input type="submit" value="threejs" name="threejs" />
+            <div>
+                <CardGif />
+            </div>
+            <div>
+                <CardBody />
+            {/* <input type="submit" value="game" name="game" />
+            <input type="submit" value="threejs" name="threejs" /> */}
+            </div>
         </StyledCard>
     );
 }

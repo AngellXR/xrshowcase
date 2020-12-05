@@ -6,22 +6,33 @@ import CardBodyText from '../CardBodyText/CardBodyText.jsx';
 
 
 const StyledCardBody = styled.div`
+    /* Auto Layout */
+
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 20px;
-    position: relative;
+
+    position: static;
     width: 396px;
     height: 166px;
-    left: 0px;
-    top: 0px;
+    left: 2px;
+    top: 383px;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
 `
 
 export default function CardBody(props) {
     return (
         <StyledCardBody>
-            <CardTitle />
             <CardBodyText />
+            <CardTitle />
             {/* <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" /> */}
         </StyledCardBody>
