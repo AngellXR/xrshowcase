@@ -10,7 +10,7 @@ const StyledCard = styled.div`
     align-items: center;
     padding: 0px;
 
-    position: absolute;
+    position: relative;
     width: 400px;
     height: 549px;
     left: calc(50% - 400px/2);
@@ -27,8 +27,6 @@ export default function Card(props) {
         <StyledCard>
             <CardGif />
             <CardBody />
-            {/* <input type="submit" value="game" name="game" />
-            <input type="submit" value="threejs" name="threejs" /> */}
         </StyledCard>
     );
 }

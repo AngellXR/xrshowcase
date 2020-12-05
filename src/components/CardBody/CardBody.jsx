@@ -6,6 +6,9 @@ import CardBodyText from '../CardBodyText/CardBodyText.jsx';
 
 
 const StyledCardBody = styled.div`
+    /* CardBody */
+
+
     /* Auto Layout */
 
     display: flex;

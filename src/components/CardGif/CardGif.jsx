@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 
 const StyledCardGif = styled.div`
-    position: static;
+    position: relative;
     width: 400px;
     height: 383px;
     left: 0px;

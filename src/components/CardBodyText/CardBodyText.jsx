@@ -8,7 +8,7 @@ const StyledCardBodyText = styled.div`
     /* body */
 
 
-    position: absolute;
+    position: relative;
     left: 0%;
     right: 0%;
     top: 0%;
