@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import CardTitle from '../CardTitle/CardTitle.jsx';
 import CardBodyText from '../CardBodyText/CardBodyText.jsx';
-
+// import Tag from '../Tag/Tag.jsx';
 
 
 const StyledCardBody = styled.div`
@@ -38,6 +38,7 @@ export default function CardBody(props) {
             <CardTitle />
             {/* <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" /> */}
+            {/* <Tag /> */}
         </StyledCardBody>
     );
 }

@@ -35,9 +35,9 @@ flex-direction: row;
 align-items: center;
 padding: 4px 10px;
 
-position: relative;
-width: 32px;
-height: 17px;
+// position: relative;
+// width: 32px;
+// height: 17px;
 
 background: #BF1363;
 border-radius: 10px;

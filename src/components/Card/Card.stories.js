@@ -8,9 +8,9 @@ export default {
   decorators: [withDesign],
 }
 
-export const defaultCard = () => <Card />
+export const card = () => <Card />
 
-defaultCard.parameters = {
+card.parameters = {
   design: {
     type: 'figma',
     url:
