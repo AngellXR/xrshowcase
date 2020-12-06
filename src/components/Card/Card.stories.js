@@ -1,16 +1,16 @@
 import React from "react";
-import { storiesOf } from "@storybook/react";
 import Card from "./Card.jsx";
 import { withDesign } from 'storybook-addon-designs'
 
 export default {
   title: 'Card',
+  component: Card,
   decorators: [withDesign],
 }
 
-export const myStory = () => <Card />
+export const defaultCard = () => <Card />
 
-myStory.parameters = {
+defaultCard.parameters = {
   design: {
     type: 'figma',
     url:
