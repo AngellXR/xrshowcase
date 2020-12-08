@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.cardgrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Cards in the grid use the item class */
+.item {
+  width: 32%;
+  padding-bottom: 3%; /* Same as width, sets height */
+  padding-top: 3%; /* Same as width, sets height */
+  margin-bottom: 2%; /* (100-32*3)/2 */
+  position: relative;
+}

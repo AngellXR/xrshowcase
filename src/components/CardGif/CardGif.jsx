@@ -4,8 +4,8 @@ import styled from 'styled-components';
 
 const StyledCardGif = styled.div`
     position: relative;
-    width: 400px;
-    height: 383px;
+    width: 300px;
+    height: 287px;
     left: 0px;
     top: 0px;
 
@@ -23,7 +23,7 @@ const StyledCardGif = styled.div`
 export default function CardGif(props) {
     return (
         <StyledCardGif>
-            <img src="http://www.fillmurray.com/400/383"></img>
+            <img src="http://www.fillmurray.com/300/287"></img>
         </StyledCardGif>
     );
 }

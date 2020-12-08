@@ -13,8 +13,8 @@ const StyledCardTitle = styled.div`
     font-family: "Lora", serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 61px;
+    font-size: 36px;
+    line-height: 46px;
 
     color: #FCFCFC;
     flex: none;
