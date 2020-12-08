@@ -32,6 +32,7 @@ function App() {
           </body>
         </html>
       </header>
+      <VRScene />
       <CardGrid />
     </div>
   );
