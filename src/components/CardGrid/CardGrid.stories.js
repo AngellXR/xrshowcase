@@ -3,7 +3,7 @@ import CardGrid from "./CardGrid.jsx";
 import { withDesign } from 'storybook-addon-designs'
 
 export default {
-  title: 'CardGrid',
+  title: 'Card/CardGrid',
   component: CardGrid,
   decorators: [withDesign],
 }
@@ -14,6 +14,6 @@ cardGrid.parameters = {
   design: {
     type: 'figma',
     url:
-      'https://www.figma.com/file/7inAfhaj1vHLtamgaiXSkU/AngellXR-sandbox?node-id=112%3A915',
+      'https://www.figma.com/file/7inAfhaj1vHLtamgaiXSkU/AngellXR-sandbox?node-id=258%3A492',
   },
 }
