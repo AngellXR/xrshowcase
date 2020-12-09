@@ -7,17 +7,17 @@ import { withDesign } from 'storybook-addon-designs'
 // storiesOf("CardBody", module).add("default", () => <CardBody />);
 
 export default {
-    title: 'VRScene',
+  title: 'Hero/VRScene',
     component: VRScene,
     decorators: [withDesign],
   }
   
-  export const vRScene = () => <VRScene />
+  export const hero = () => <VRScene />
   
-  vRScene.parameters = {
+  hero.parameters = {
     design: {
       type: 'figma',
       url:
-        'https://www.figma.com/file/7inAfhaj1vHLtamgaiXSkU/AngellXR-sandbox?node-id=112%3A937',
+        'https://www.figma.com/file/7inAfhaj1vHLtamgaiXSkU/AngellXR-sandbox?node-id=114%3A29',
     },
   }
