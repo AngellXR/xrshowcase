@@ -1,14 +1,19 @@
 // import logo from './logo.svg';
 import './App.css';
-import VRScene from './components/VRScene/VRScene.jsx'
 import CardGrid from './components/CardGrid/CardGrid.jsx'
+import VRScene from './components/VRScene/VRScene.jsx'
 import 'aframe-react'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <VRScene />
+        <html>
+          <head>
+            <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+          </head>
+        </html>
+        <VRScene />
       </header>
       <CardGrid />
     </div>
