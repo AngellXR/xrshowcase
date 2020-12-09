@@ -1,7 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
 import CardGrid from './components/CardGrid/CardGrid.jsx'
-import VRScene from './components/VRScene/VRScene.jsx'
 import 'aframe-react'
 
 function App() {
@@ -32,7 +31,6 @@ function App() {
             </a-scene>
           </body>
         </html>
-        <VRScene />
       </header>
       <CardGrid />
     </div>

@@ -21,9 +21,6 @@ export default function CardGrid(props) {
                 <div class="item"> <Card /> </div>
                 <div class="item"> <Card /> </div>
                 <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
 
             </div>
         </StyledCardGrid>
