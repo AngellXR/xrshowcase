@@ -9,8 +9,8 @@ export const parameters = {
         value: '#333333',
       },
       // {
-      //   name: 'facebook',
-      //   value: '#3b5998',
+      //   name: 'brandPurple',
+      //   value: '#623CEA',
       // },
     ],
   },
