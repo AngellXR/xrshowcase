@@ -27,7 +27,7 @@ export default function Card({ cardInfo }) {
     console.log(cardInfo);
     return (
         <StyledCard>
-            <CardGif url={cardInfo.imgURL}/>
+                <CardGif imgURL={cardInfo.imgURL}/>
             <CardBody title={cardInfo.title} description={cardInfo.description}/>
         </StyledCard>
     );

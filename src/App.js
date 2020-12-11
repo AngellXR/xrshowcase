@@ -8,14 +8,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <html>
+        {/* <html>
           <head>
             <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
           </head>
-        </html>
+        </html> */}
         <VRScene />
       </header>
-      <CardGrid />
+      <body>
+        <div>
+          <CardGrid />
+        </div>
+      </body>
     </div>
   );
 }

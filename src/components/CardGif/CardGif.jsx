@@ -20,10 +20,10 @@ const StyledCardGif = styled.div`
     margin: 0px 0px;
 `
 
-export default function CardGif(props) {
+export default function CardGif({imgURL}) {
     return (
         <StyledCardGif>
-            <img src="http://www.fillmurray.com/300/287"></img>
+            <img src={imgURL}></img>
         </StyledCardGif>
     );
 }
