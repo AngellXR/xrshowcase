@@ -1,6 +1,8 @@
 import React from "react";
 import CardGif from "./CardGif.jsx";
 import { withDesign } from 'storybook-addon-designs'
+import { CARDINFO } from '../../utils/constants';
+
 
 export default {
     title: 'Card/subcomponents/Gif',
@@ -8,7 +10,7 @@ export default {
     decorators: [withDesign],
   }
   
-  export const cardGif = () => <CardGif />
+  export const cardGif = () => <CardGif imgURL={CARDINFO[0].imgURL}/>
   
   cardGif.parameters = {
     design: {
