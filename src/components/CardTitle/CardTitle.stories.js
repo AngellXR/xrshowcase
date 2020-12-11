@@ -4,7 +4,6 @@ import { withDesign } from 'storybook-addon-designs'
 import { CARDINFO } from '../../utils/constants';
 
 
-
 export default {
     title: 'Card/subcomponents/body/title',
     component: CardTitle,
