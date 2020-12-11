@@ -23,11 +23,12 @@ const StyledCard = styled.div`
     
 `
 
-export default function Card(props) {
+export default function Card({ cardInfo }) {
+    console.log(cardInfo);
     return (
         <StyledCard>
-            <CardGif />
-            <CardBody />
+            <CardGif url={cardInfo.imgURL}/>
+            <CardBody title={cardInfo.title} description={cardInfo.description}/>
         </StyledCard>
     );
 }

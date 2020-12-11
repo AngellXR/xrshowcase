@@ -31,11 +31,11 @@ const StyledCardBody = styled.div`
     margin: 0px 0px;
 `
 
-export default function CardBody(props) {
+export default function CardBody({title, description}) {
     return (
         <StyledCardBody>
-            <CardBodyText />
-            <CardTitle />
+            <CardBodyText description={description}/>
+            <CardTitle title={title}/>
             {/* <input type="submit" value="game" name="game" />
             <input type="submit" value="threejs" name="threejs" /> */}
             {/* <Tag /> */}

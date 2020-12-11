@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./Card.jsx";
 import { withDesign } from 'storybook-addon-designs'
+import { CARDINFO } from '../../utils/constants';
 
 export default {
   title: 'Card',
@@ -8,7 +9,7 @@ export default {
   decorators: [withDesign],
 }
 
-export const card = () => <Card />
+export const card = () => <Card cardInfo={CARDINFO[0]}/>
 
 card.parameters = {
   design: {
