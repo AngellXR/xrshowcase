@@ -3,6 +3,7 @@ import React from "react";
 import CardBody from "./CardBody.jsx";
 import { withDesign } from 'storybook-addon-designs'
 
+
 // deprecated storiesOf
 // storiesOf("CardBody", module).add("default", () => <CardBody />);
 
@@ -12,7 +13,7 @@ export default {
     decorators: [withDesign],
   }
   
-  export const bodyMolecule = () => <CardBody />
+  export const bodyMolecule = () => <CardBody  />
   
   bodyMolecule.parameters = {
     design: {

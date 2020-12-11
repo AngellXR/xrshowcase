@@ -1,6 +1,7 @@
 import React from "react";
 import CardBodyText from "./CardBodyText.jsx";
-import { withDesign } from 'storybook-addon-designs'
+import { withDesign } from 'storybook-addon-designs';
+import { CARDINFO } from '../../utils/constants';
 
 export default {
     title: 'Card/subcomponents/body/text',
@@ -8,8 +9,9 @@ export default {
     decorators: [withDesign],
   }
   
-  export const cardBodyText = () => <CardBodyText />
-  
+  // export const cardBodyText = () => <CardBodyText />
+  export const cardBodyText = () => <CardBodyText description={CARDINFO[0].description}/>
+
   cardBodyText.parameters = {
     design: {
       type: 'figma',
