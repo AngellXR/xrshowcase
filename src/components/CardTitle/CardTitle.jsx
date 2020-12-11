@@ -23,10 +23,10 @@ const StyledCardTitle = styled.div`
     margin: 0px 13px;
 `
 
-export default function CardTitle(props) {
+export default function CardTitle({ title }) {
     return (
         <StyledCardTitle>
-            Spaghetti Soup
+            {title}
         </StyledCardTitle>
     );
 }

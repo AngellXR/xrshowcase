@@ -30,10 +30,10 @@ const StyledCardBodyText = styled.div`
     margin: 0px 13px;
 `
 
-export default function CardBodyText(props) {
+export default function CardBodyText({description}) {
     return (
         <StyledCardBodyText>
-            This is my body description of the experience. You should totally click this to experience WebXR for yourself.
+            {description}
         </StyledCardBodyText>
     );
 }

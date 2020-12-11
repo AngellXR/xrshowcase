@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Card from '../Card/Card.jsx';
 import '../../App.css';
+import { CARDINFO } from '../../utils/constants';
 
 
 const StyledCardGrid = styled.div`
@@ -16,15 +17,12 @@ export default function CardGrid(props) {
     return (
         <StyledCardGrid>
             <div class="cardgrid">
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-                <div class="item"> <Card /> </div>
-
-
+                {CARDINFO.map(card => {
+                    return (
+                        <a href={card.link}>
+                            <div class="item"> <Card cardInfo={card}/> </div>
+                        </a>
+                )})}
             </div>
         </StyledCardGrid>
     );
