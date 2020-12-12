@@ -1,11 +1,5 @@
 export const CARDINFO = Object.freeze([
   {
-    title: "{{Edgewater, Horses}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/dovehill.gif",
-    description: "360 degree memory over a beautiful horse farm in Edgewater, MD.",
-    link: "https://edgewater-dream.glitch.me/",
-  },
-  {
     title: "{{Lothian, Skyline}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
     description: "360 degree memory of a sunrise over a beautiful horse farm in Lothian, MD.",
@@ -16,6 +10,12 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/ogsandboxsky.gif",
     description: "An early project for testing our asset deployment and aframe sky. Featuring Annapolis, MD.",
     link: "https://angellxr.github.io/oldsandbox/",
+  },
+  {
+    title: "{{Dove Hill}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/dovehill.gif",
+    description: "360 degree memory over a beautiful horse farm in Edgewater, MD.",
+    link: "https://edgewater-dream.glitch.me/",
   },
   {
     title: "{{ChessVR}}",
