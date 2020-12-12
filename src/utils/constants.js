@@ -1,8 +1,8 @@
 export const CARDINFO = Object.freeze([
   {
-    title: "Bill's Booty",
-    imgURL: "http://www.fillmurray.com/305/295",
-    description: "This is my body description of the experience. You should totally click this to experience WebXR for yourself.",
+    title: "Lothian Skyline",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
+    description: "360 degree memory of a sunrise over a beautiful horse farm in Lothian, MD.",
     link: "https://lothian-memory.glitch.me",
   },
   {
