@@ -13,8 +13,8 @@ const StyledCard = styled.div`
     position: relative;
     width: 18.75em;
     height: 25.8125em;
-    left: calc(50% - 300px/2);
-    top: calc(50% - 413px/2 - 0.5px);
+    left: calc(50% - 18.75em/2);
+    top: calc(50% - 25.8125em/2 - 0.5px);
 
     background: #333333;
     border: 10px solid #000000;
@@ -24,7 +24,6 @@ const StyledCard = styled.div`
 `
 
 export default function Card({ cardInfo }) {
-    console.log(cardInfo);
     return (
         <StyledCard>
                 <CardGif imgURL={cardInfo.imgURL}/>
