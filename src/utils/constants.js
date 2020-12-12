@@ -6,10 +6,10 @@ export const CARDINFO = Object.freeze([
     link: "https://lothian-memory.glitch.me",
   },
   {
-    title: "Elon's Ears",
-    imgURL: "http://www.fillmurray.com/310/287",
-    description: "This is my body description of the experience. You should totally click this to experience WebXR for yourself.",
-    link: "https://lothian-memory.glitch.me",
+    title: "Old Sandbox",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/ogsandboxsky.gif",
+    description: "An early project for testing our asset deployment and aframe sky. Featuring Annapolis, MD.",
+    link: "https://angellxr.github.io/oldsandbox/",
   },
   {
     title: "Carol's Card",
