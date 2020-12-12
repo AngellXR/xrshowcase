@@ -35,4 +35,10 @@ export const CARDINFO = Object.freeze([
     description: "This is my body description of the experience. You should totally click this to experience WebXR for yourself.",
     link: "https://lothian-memory.glitch.me",
   },
+  {
+    title: "Banana Slug",
+    imgURL: "http://www.fillmurray.com/298/288",
+    description: "Ouch you biter.",
+    link: "https://en.wikipedia.org/wiki/Banana_slug",
+  },
 ])
