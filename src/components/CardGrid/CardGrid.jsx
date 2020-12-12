@@ -6,7 +6,7 @@ import { CARDINFO } from '../../utils/constants';
 
 
 const StyledCardGrid = styled.div`
-    // position: absolute;
+    position: relative;
     margin-left: auto;
     margin-right: auto;
     width: 1052px;
