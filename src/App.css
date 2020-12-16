@@ -43,27 +43,3 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
-
-/* Cards in the grid use the item class */
-.item {
-  width: 32%;
-  padding-bottom: 3%; /* Same as width, sets height */
-  padding-top: 3%; /* Same as width, sets height */
-  margin-bottom: 2%; /* (100-32*3)/2 */
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 5px;
-
-  position: relative;
-  width: 18.75em;
-  height: 25.8125em;
-  left: calc(50% - 18.75em / 2);
-  top: calc(50% - 25.8125em / 2 - 0.5px);
-
-  background: #333333;
-  border: 10px solid #000000;
-  box-shadow: 1.25em 1.25em 0.25em #623cea;
-  border-radius: 1.25em;
-}
