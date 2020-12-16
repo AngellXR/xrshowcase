@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project uses StorybookJS and Figma to consolodate a design system.
+
+This project is intended to help XR creators federate and co-create their XR work. To add your project to the page visit utils -> constants.js and add the following:
+
+{
+title: "{{Your Title}}",
+imgURL: "your image URL",
+description: Brief Description like: Aerial view of a Marlboro Hunt Club, Fall 2020",
+link: "URL to your project, you can use glitch, codesandbox, github pages, or any resource of your choice with a URL",
+},
+
+AngellXR is a community devoted to an open Metaverse. Feel free to make contributions based on your own expertise. We are always looking to add new members to our community.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,6 +26,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `python3 -m http.server`
+
+Runs the app in the development mode (alternate).\
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+
+### `npm run deploy`
+
+After installing gh-pages and adding deploy scripts to the package.json, this command builds the app for production to the github pages\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [gh-pages-deployment](https://create-react-app.dev/docs/deployment/#github-pages) for more information.
 
 ### `npm test`
 
