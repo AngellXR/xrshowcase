@@ -8,7 +8,7 @@ const StyledCardGrid = styled.div`
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  width: 1052px;
+  width: 1080px;
 `;
 
 export default function CardGrid(props) {

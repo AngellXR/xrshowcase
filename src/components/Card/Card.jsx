@@ -24,6 +24,10 @@ const StyledCard = styled.div`
   border: 10px solid #000000;
   box-shadow: 1.25em 1.25em 0.25em #623cea;
   border-radius: 1.25em;
+
+  &:hover {
+    box-shadow: 2em 2em 0.25em #623cea;
+  }
 `;
 
 export default function Card({ cardInfo }) {

@@ -1,39 +1,30 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 // import PropTypes from 'prop-types';
 
-
 const StyledCardBodyText = styled.div`
-    /* body */
+  /* body */
 
+  position: static;
+  width: 280px;
+  height: 34px;
 
-    position: relative;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+  /* Inside Auto Layout */
 
-    font-family: "Lato", sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 11px;
-    line-height: 13px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 0px;
 
-    color: #FCFCFC;
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  //   line-height: 13px;
 
+  color: #fcfcfc;
+`;
 
-    /* Inside Auto Layout */
-
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-    margin: 0px 13px;
-`
-
-export default function CardBodyText({description}) {
-    return (
-        <StyledCardBodyText>
-            {description}
-        </StyledCardBodyText>
-    );
+export default function CardBodyText({ description }) {
+  return <StyledCardBodyText>{description}</StyledCardBodyText>;
 }
