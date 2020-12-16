@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import CardGrid from "./components/CardGrid/CardGrid.jsx";
 import PageTitle from "./components/PageTitle/PageTitle.jsx";
+import { device } from "../src/utils/device";
 
 import "./App.css";
 // import VRScene from './components/VRScene/VRScene.jsx'
