@@ -4,7 +4,6 @@ import CardBody from "../CardBody/CardBody.jsx";
 import CardGif from "../CardGif/CardGif.jsx";
 
 const StyledCard = styled.div`
-  width: 32%;
   padding-bottom: 3%; /* Same as width, sets height */
   padding-top: 3%; /* Same as width, sets height */
   margin-bottom: 2%; /* (100-32*3)/2 */

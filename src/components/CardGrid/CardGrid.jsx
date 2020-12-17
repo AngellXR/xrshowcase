@@ -9,11 +9,6 @@ const StyledCardGrid = styled.div`
   margin-left: auto;
   margin-right: auto;
   //   width: 1080px;
-
-  /* Smartphones (landscape and portrait) ----------- */
-  @media (min-device-width: 320px) and (max-device-width: 480px) {
-    display: flex;
-    flex-direction: column;
   }
 `;
 

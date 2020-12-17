@@ -18,4 +18,4 @@ class VRScene extends React.Component {
   }
 }
 
-export default VRScene
+export default VRScene;

@@ -9,7 +9,7 @@ const StyledPageTitle = styled.div`
   top: 0%;
   bottom: 1.28%;
 
-  font-family: Lora;
+  font-family: Lora; serif;
   font-style: normal;
   font-weight: bold;
   font-size: 120px;
