@@ -1,9 +1,15 @@
 export const CARDINFO = Object.freeze([
+  // {
+  //   title: "{{Logo Starter Template}}",
+  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
+  //   description:"Starter Template to have your own AngellXR Logo in your A-Frame Experience",
+  //   link: "https://angellxr-starterlogo.glitch.me/",
+  // },
   {
-    title: "{{Logo Starter Template}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
-    description:"Starter Template to have your own AngellXR Logo in your A-Frame Experience",
-    link: "https://angellxr-starterlogo.glitch.me/",
+    title: "{{Horror Lobby}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/HorrorRoom.gif",
+    description:"Small room with old horror movie posters and floating spirit.",
+    link: "https://webxr-horror-exhibit.glitch.me/",
   },
     {
     title: "{{Lothian, Skyline}}",
@@ -18,12 +24,6 @@ export const CARDINFO = Object.freeze([
     description:
       "An early project for testing our asset deployment and aframe sky. Featuring Annapolis, MD.",
     link: "https://angellxr.github.io/oldsandbox/",
-  },
-  {
-    title: "{{Horror Lobby}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
-    description:"Small room with old horror movie posters and floating spirit.",
-    link: "https://webxr-horror-exhibit.glitch.me/",
   },
   {
     title: "{{Dove Hill}}",
