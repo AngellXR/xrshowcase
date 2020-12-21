@@ -12,8 +12,8 @@ const StyledPageTitle = styled.div`
   font-family: Lora; serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 10vmin;
-  line-height: 154px;
+  font-size: 12vmin;
+  line-height: 12vmin;
   /* identical to box height */
 
   color: #030303;

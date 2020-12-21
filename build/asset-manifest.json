@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sandboxr/static/css/main.da85daee.chunk.css",
-    "main.js": "/sandboxr/static/js/main.9cb1fe9d.chunk.js",
-    "main.js.map": "/sandboxr/static/js/main.9cb1fe9d.chunk.js.map",
+    "main.css": "/sandboxr/static/css/main.0682e051.chunk.css",
+    "main.js": "/sandboxr/static/js/main.38fde701.chunk.js",
+    "main.js.map": "/sandboxr/static/js/main.38fde701.chunk.js.map",
     "runtime-main.js": "/sandboxr/static/js/runtime-main.f27c52de.js",
     "runtime-main.js.map": "/sandboxr/static/js/runtime-main.f27c52de.js.map",
     "static/js/2.fac17f8d.chunk.js": "/sandboxr/static/js/2.fac17f8d.chunk.js",
     "static/js/2.fac17f8d.chunk.js.map": "/sandboxr/static/js/2.fac17f8d.chunk.js.map",
     "index.html": "/sandboxr/index.html",
-    "static/css/main.da85daee.chunk.css.map": "/sandboxr/static/css/main.da85daee.chunk.css.map",
+    "static/css/main.0682e051.chunk.css.map": "/sandboxr/static/css/main.0682e051.chunk.css.map",
     "static/js/2.fac17f8d.chunk.js.LICENSE.txt": "/sandboxr/static/js/2.fac17f8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f27c52de.js",
     "static/js/2.fac17f8d.chunk.js",
-    "static/css/main.da85daee.chunk.css",
-    "static/js/main.9cb1fe9d.chunk.js"
+    "static/css/main.0682e051.chunk.css",
+    "static/js/main.38fde701.chunk.js"
   ]
 }
