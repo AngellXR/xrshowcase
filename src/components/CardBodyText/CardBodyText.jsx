@@ -19,7 +19,7 @@ const StyledCardBodyText = styled.div`
   font-family: "Lato", sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 11px;
+  font-size: clamp(11px, 1vh, 11px);
   //   line-height: 13px;
 
   color: #fcfcfc;

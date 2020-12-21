@@ -21,8 +21,10 @@ const StyledCardTitle = styled.div`
   font-family: "Lora", serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 28px;
-  line-height: 36px;
+  // font-size: 2.5vh;
+  // replaced with this clamp model found online for min max css
+  font-size: clamp(16px, 4vh, 22px);
+  line-height: 4vh;
 
   color: #fcfcfc;
 `;
