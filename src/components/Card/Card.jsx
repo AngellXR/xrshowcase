@@ -4,9 +4,9 @@ import CardBody from "../CardBody/CardBody.jsx";
 import CardGif from "../CardGif/CardGif.jsx";
 
 const StyledCard = styled.div`
-  padding-bottom: 3%; /* Same as width, sets height */
-  padding-top: 3%; /* Same as width, sets height */
-  margin-bottom: 2%; /* (100-32*3)/2 */
+  // padding-bottom: 3%; /* Same as width, sets height */
+  // padding-top: 3%; /* Same as width, sets height */
+  // margin-bottom: 2%; /* (100-32*3)/2 */
 
   display: flex;
   flex-direction: column;
@@ -16,8 +16,8 @@ const StyledCard = styled.div`
   position: relative;
   width: 18.75em;
   height: 25.8125em;
-  left: calc(50% - 18.75em / 2);
-  top: calc(50% - 25.8125em / 2 - 0.5px);
+  // left: calc(50% - 18.75em / 2);
+  // top: calc(50% - 25.8125em / 2 - 0.5px);
 
   background: #333333;
   border: 10px solid #000000;

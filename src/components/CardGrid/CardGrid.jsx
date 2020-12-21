@@ -5,10 +5,11 @@ import "../../App.css";
 import { CARDINFO } from "../../utils/constants";
 
 const StyledCardGrid = styled.div`
-  position: relative;
+  position: center;
   margin-left: auto;
   margin-right: auto;
-  //   width: 1080px;
+  max-width: 1200px;
+  // max-width: 140vmin;
   }
 `;
 
