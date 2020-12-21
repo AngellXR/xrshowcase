@@ -5,7 +5,7 @@ import "../../App.css";
 import { CARDINFO } from "../../utils/constants";
 
 const StyledCardGrid = styled.div`
-  position: center;
+  // position: center;
   margin-left: auto;
   margin-right: auto;
   max-width: 1200px;
