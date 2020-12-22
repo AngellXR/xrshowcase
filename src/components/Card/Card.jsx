@@ -20,12 +20,22 @@ const StyledCard = styled.div`
   // top: calc(50% - 25.8125em / 2 - 0.5px);
 
   background: #333333;
-  border: 1.3vh solid #000000;
-  box-shadow: 1.25em 1.25em 0.25em #623cea;
+  // border: 1.3vh solid #000000;
+  border: clamp(7px, 1.6vh, 10px) solid #030303;
+  // box-shadow: 1.25em 1.25em 0.25em #623cea;
+  transition-property: box-shadow;
+  transition-duration: .38s;
+  transition-timing-function: linear;
+  box-shadow: 2.85vh 2.85vh 0.85vh #623cea;
   border-radius: 1.25em;
 
   &:hover {
-    box-shadow: 2em 2em 0.25em #623cea;
+    // box-shadow: 2em 2em 0.25em #623cea;
+    transition-property: box-shadow;
+    transition-duration: .18s;
+    transition-timing-function: linear;
+    // transition-delay: 0s;
+    box-shadow: 1.85vh 1.85vh 0.25vh #623cea;
   }
 `;
 

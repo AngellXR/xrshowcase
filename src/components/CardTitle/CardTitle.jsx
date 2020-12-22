@@ -23,8 +23,8 @@ const StyledCardTitle = styled.div`
   font-weight: bold;
   // font-size: 2.5vh;
   // replaced with this clamp model found online for min max css
-  font-size: clamp(16px, 4vh, 22px);
-  line-height: 4vh;
+  font-size: clamp(17px, 4vh, 25px);
+  line-height: 2em;
 
   color: #fcfcfc;
 `;
