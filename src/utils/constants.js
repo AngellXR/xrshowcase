@@ -7,7 +7,7 @@ export const CARDINFO = Object.freeze([
   // },
   {
     title: "VR Space ",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/pbloomvrspace.gif",
+    imgURL: "http://d3i9te5634opuo.cloudfront.net/pbloomvrspace.gif",
     description:"A collection of over 30 works by Pat Bloom. Pay a visit alone or with all of your friends - safety guaranteed.",
     link: "https://patbloom.com/vrspace",
   },
