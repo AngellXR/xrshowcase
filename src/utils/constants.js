@@ -6,6 +6,12 @@ export const CARDINFO = Object.freeze([
   //   link: "https://angellxr-starterlogo.glitch.me/",
   // },
   {
+    title: "VR Space ",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/pbloomvrspace.gif",
+    description:"A collection of over 30 works by Pat Bloom. Pay a visit alone or with all of your friends - safety guaranteed.",
+    link: "https://patbloom.com/vrspace",
+  },
+  {
     title: "{{Horror Lobby}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/HorrorRoom.gif",
     description:"Small room with old horror movie posters and floating spirit.",
