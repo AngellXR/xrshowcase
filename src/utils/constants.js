@@ -6,10 +6,17 @@ export const CARDINFO = Object.freeze([
   //   link: "https://angellxr-starterlogo.glitch.me/",
   // },
   {
-    title: "VR Space ",
+    title: "{{VR Space}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/pbloomvrspace.gif",
     description:"A collection of over 30 works by Pat Bloom. Pay a visit alone or with all of your friends - safety guaranteed.",
     link: "http://patbloom.com/vrspace",
+  },
+  {
+    title: "{{Caught in Guelph}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/guelphsky.gif",
+    description:
+      "Day and night transitional overlooking the east end of Guelph.",
+    link: "https://caughtinguelph.com/Aerial-01/",
   },
   {
     title: "{{Horror Lobby}}",
@@ -25,7 +32,7 @@ export const CARDINFO = Object.freeze([
     link: "https://lothian-memory.glitch.me",
   },
   {
-    title: "{{Sandbox}}",
+    title: "{{OG Sandbox}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/ogsandboxsky.gif",
     description:
       "An early project for testing our asset deployment and aframe sky. Featuring Annapolis, MD.",
