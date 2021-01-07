@@ -6,6 +6,12 @@ export const CARDINFO = Object.freeze([
   //   link: "https://angellxr-starterlogo.glitch.me/",
   // },
   {
+    title: "{{Elfland Glider}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/elflandglider.gif",
+    description:"A tranquil action game for VR and mobile. Fly through fantastic worlds, help the merry and mischievous light elves, & avoid the surly and mischievous dark elves.",
+    link: "https://dougreeder.github.io/elfland-glider/",
+  },
+  {
     title: "{{VR Space}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/pbloomvrspace.gif",
     description:"A collection of over 30 works by Pat Bloom. Pay a visit alone or with all of your friends - safety guaranteed.",

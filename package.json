@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^12.2.2",
     "aframe": "^1.1.0",
     "aframe-react": "^4.4.0",
+    "angellxr": "0.0.1",
     "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
