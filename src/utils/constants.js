@@ -6,16 +6,16 @@ export const CARDINFO = Object.freeze([
   //   link: "https://angellxr-starterlogo.glitch.me/",
   // },
   {
-    title: "{{Elfland Glider}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/elflandglider.gif",
-    description:"A tranquil action game for VR and mobile. Fly through fantastic worlds, help the merry and mischievous light elves, & avoid the surly and mischievous dark elves.",
-    link: "https://dougreeder.github.io/elfland-glider/",
-  },
-  {
     title: "{{Animalia Art Show}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
     description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
     link: "https://framevr.io/kibsdart",
+  },
+  {
+    title: "{{Elfland Glider}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/elflandglider.gif",
+    description:"A tranquil action game for VR and mobile. Fly through fantastic worlds, help the merry and mischievous light elves, & avoid the surly and mischievous dark elves.",
+    link: "https://dougreeder.github.io/elfland-glider/",
   },
   {
     title: "{{VR Space}}",
