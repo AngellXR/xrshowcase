@@ -5,24 +5,26 @@ export const CARDINFO = Object.freeze([
   //   description:"Starter Template to have your own AngellXR Logo in your A-Frame Experience",
   //   link: "https://angellxr-starterlogo.glitch.me/",
   // },
-  {
-    title: "{{SpaceTrain}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-    description:"Hop aboard an XR train ride to various different experiences.",
-    link: "https://train.gatunes.com/#/Metro",
-  },
+
+  // Have to comment two submissions out until I can get a better gif
+  // {
+  //   title: "{{SpaceTrain}}",
+  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
+  //   description:"Hop aboard an XR train ride to various different experiences.",
+  //   link: "https://train.gatunes.com/#/Metro",
+  // },
   {
     title: "{{Animalia Art Show}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
     description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
     link: "https://framevr.io/kibsdart",
   },
-  {
-    title: "{{Troll Tower}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-    description:"Scale the Troll tower with friends in this Multiplayer XR Climbing Game.",
-    link: "https://trolltower.app",
-  },
+  // {
+  //   title: "{{Troll Tower}}",
+  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
+  //   description:"Scale the Troll tower with friends in this Multiplayer XR Climbing Game.",
+  //   link: "https://trolltower.app",
+  // },
   {
     title: "{{Elfland Glider}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/elflandglider.gif",
