@@ -14,6 +14,12 @@ export const CARDINFO = Object.freeze([
   //   link: "https://train.gatunes.com/#/Metro",
   // },
   {
+    title: "{{ShaderWorlds}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/shaderworlds.gif",
+    description:"A PC-first high end collection of mathematically rendered XR Worlds.",
+    link: "https://shaderworlds.com/",
+  },
+  {
     title: "{{Animalia Art Show}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
     description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
