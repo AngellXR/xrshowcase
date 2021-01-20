@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "https://angellxr.github.io/sandboxr",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.2.2",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
     "aframe": "^1.1.0",
     "aframe-react": "^4.4.0",
     "angellxr": "0.0.1",
