@@ -28,10 +28,11 @@ p {
 }
 
 a {
+  color: #bf1363;
   text-decoration: none;
 }
 
 a:hover {
-  color: #333333;
+  color: #623cea;
   text-decoration: underline;
 }
