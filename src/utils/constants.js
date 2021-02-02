@@ -79,7 +79,7 @@ export const CARDINFO = Object.freeze([
   },
   {
     title: "{{ChessVR}}",
-    imgURL: "http://www.fillmurray.com/300/280",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/chessvr.gif",
     description: "aframe Chess, because we can.",
     link: "https://chessvr.glitch.me/",
   },
