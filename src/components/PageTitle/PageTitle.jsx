@@ -20,5 +20,5 @@ const StyledPageTitle = styled.div`
 `;
 
 export default function PageTitle({ props }) {
-  return <StyledPageTitle>XR Collective</StyledPageTitle>;
+  return <StyledPageTitle>XR Showcase</StyledPageTitle>;
 }
