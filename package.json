@@ -2,7 +2,7 @@
   "name": "sandboxr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://angellxr.github.io/sandboxr",
+  "homepage": "https://angellxr.github.io/showcasexr",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
