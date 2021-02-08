@@ -7,12 +7,18 @@ export const CARDINFO = Object.freeze([
   // },
 
   // Have to comment two submissions out until I can get a better gif
-  // {
-  //   title: "{{SpaceTrain}}",
-  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-  //   description:"Hop aboard an XR train ride to various different experiences.",
-  //   link: "https://train.gatunes.com/#/Metro",
-  // },
+  {
+    title: "{{SpaceTrain}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
+    description:"Hop aboard an XR train ride to various different experiences.",
+    link: "https://train.gatunes.com/#/Metro",
+  },
+  {
+    title: "{{D.C. 360}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/dc360.gif",
+    description:"A collection of 360 images around Washington D.C. Landmarks and Monuments",
+    link: "https://kuula.co/share/collection/7PSxv?fs=1&vr=1&sd=1&initload=0&thumbs=1&info=0&logo=0",
+  },
   {
     title: "{{ShaderWorlds}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/shaderworlds.gif",
@@ -20,17 +26,29 @@ export const CARDINFO = Object.freeze([
     link: "https://shaderworlds.com/",
   },
   {
+    title: "{{Edgewater Sunset}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/dhf020721.gif",
+    description:"First capture of sunset at a farm house in Maryland.",
+    link: "https://sunset-edgewater.glitch.me",
+  },
+  {
     title: "{{Animalia Art Show}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
     description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
     link: "https://framevr.io/kibsdart",
   },
-  // {
-  //   title: "{{Troll Tower}}",
-  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-  //   description:"Scale the Troll tower with friends in this Multiplayer XR Climbing Game.",
-  //   link: "https://trolltower.app",
-  // },
+  {
+    title: "{{Troll Tower}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/trolltower.gif",
+    description:"Scale the Troll tower with friends in this Multiplayer XR Climbing Game.",
+    link: "https://trolltower.app",
+  },
+  {
+    title: "{{Spiderman VR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/spidey.gif",
+    description:"Headset Req: Fly around a city as a low poly Spidey!",
+    link: "https://spiderman.webvr.link",
+  },
   {
     title: "{{Elfland Glider}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/elflandglider.gif",
@@ -49,6 +67,12 @@ export const CARDINFO = Object.freeze([
     description:
       "Day and night transitional overlooking the east end of Guelph.",
     link: "https://caughtinguelph.com/Aerial-01/",
+  },
+  {
+    title: "{{Ocean City}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/ocmd-010221.gif",
+    description:"A rainy morning, on January 2, 2021, in Ocean City, Maryland.",
+    link: "https://oceancity.glitch.me",
   },
   {
     title: "{{Horror Lobby}}",
