@@ -8,6 +8,12 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{Starship0}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/starship0.gif",
+    description:"Starship forged and updated regularly using Asset Forge and A-Frame.",
+    link: "https://starship0.glitch.me/",
+  },
+  {
     title: "{{SpaceTrain}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
     description:"Hop aboard an XR train ride to various different experiences.",
