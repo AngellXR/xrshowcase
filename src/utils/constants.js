@@ -8,6 +8,12 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{SilkBrush}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/silkbrush.gif",
+    description:"Silk Brush is a port of Tilt Brush to WebXR. Headset required.",
+    link: "https://msub2.github.io/silk-brush/",
+  },
+  {
     title: "{{Starship0}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/starship0.gif",
     description:"Starship forged and updated regularly using Asset Forge and A-Frame.",
