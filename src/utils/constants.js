@@ -14,6 +14,12 @@ export const CARDINFO = Object.freeze([
     link: "https://msub2.github.io/silk-brush/",
   },
   {
+    title: "{{Webaverse}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
+    description:"The Internet MMO built with NFTs.",
+    link: "https://app.webaverse.com/",
+  },
+  {
     title: "{{Starship0}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/starship0.gif",
     description:"Starship forged and updated regularly using Asset Forge and A-Frame.",
