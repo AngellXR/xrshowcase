@@ -10,7 +10,7 @@ export const CARDINFO = Object.freeze([
   {
     title: "{{S.E.N.S WebVR}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
-    description:"LucidWeb worked with ARTE and Red Corner to make the first virtual reality game – inspired by a graphic novel – S.E.N.S VR, available in WebVR.  During 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for something unknown in a meditative and almost surreal maze.",
+    description:"LucidWeb worked with ARTE and Red Corner to make the first VR game inspired by a graphic novel – S.E.N.S VR.  During 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for something unknown in a meditative and almost surreal maze.",
     link: "https://sens.arte.tv/webvr/",
   },
   {
