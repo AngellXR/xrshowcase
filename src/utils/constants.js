@@ -8,6 +8,12 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{S.E.N.S WebVR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
+    description:"LucidWeb worked with ARTE and Red Corner to make the first virtual reality game – inspired by a graphic novel – S.E.N.S VR, available in WebVR.  During 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for something unknown in a meditative and almost surreal maze.",
+    link: "https://sens.arte.tv/webvr/",
+  },
+  {
     title: "{{SilkBrush}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/silkbrush.gif",
     description:"Silk Brush is a port of Tilt Brush to WebXR. Headset required.",
