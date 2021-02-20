@@ -8,6 +8,12 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{SIMULACRA}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/simulacra.gif",
+    description:"SIMULACRA is a WebXR art experience featuring the work of over 13 Twin Cities artists who work in digital and new media mediums.",
+    link: "https://virtualrem5.com/as6hbyy/simulacra",
+  },
+  {
     title: "{{S.E.N.S WebVR}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
     description:"LucidWeb worked with ARTE and Red Corner to make the first VR game inspired by a graphic novel. In 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for the unknown in a meditative and surreal maze.",
