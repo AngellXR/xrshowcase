@@ -2,7 +2,7 @@
   "name": "showcasexr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://angellxr.github.io/showcasexr",
+  "homepage": "https://xrshowcase.xyz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
