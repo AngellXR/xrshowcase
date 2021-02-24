@@ -8,6 +8,11 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{TetrisArcade}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
+    description:"Explore new twists on an old classic (and on any device) in Tetris Arcade.",
+    link: "https://tetrisarcade.xyz/",
+  },  {
     title: "{{SIMULACRA}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/simulacra.gif",
     description:"SIMULACRA is a WebXR art experience featuring the work of over 13 Twin Cities artists who work in digital and new media mediums.",
