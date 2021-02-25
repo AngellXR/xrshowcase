@@ -44,6 +44,7 @@ export default function Card({ cardInfo }) {
     <StyledCard>
       <div>
         <CardGif imgURL={cardInfo.imgURL}/>
+        <CardBody title={cardInfo.title} description={cardInfo.description}/>
       </div>
     </StyledCard>
   );
