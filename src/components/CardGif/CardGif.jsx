@@ -22,7 +22,7 @@ const StyledCardGif = styled.div`
 export default function CardGif({ imgURL }) {
   return (
     <StyledCardGif>
-      <img src={imgURL}></img>
+      <img src={imgURL} loading="lazy"></img>
     </StyledCardGif>
   );
 }
