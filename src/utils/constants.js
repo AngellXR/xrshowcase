@@ -17,13 +17,13 @@ export const CARDINFO = Object.freeze([
     title: "{{TetrisArcade}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
     description:"Explore new twists on an old classic (and on any device) in Tetris Arcade.",
-    link: "https://classicsxr.glitch.me/",
+    link: "https://tetrisarcade.xyz/",
   },  
   {
     title: "{{ClassicXR}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/classicxr.gif",
     description:"An early rendering of a paper World for our upcoming hackathon.",
-    link: "https://tetrisarcade.xyz/",
+    link: "https://classicsxr.glitch.me/",
   },  
   {
     title: "{{SIMULACRA}}",
