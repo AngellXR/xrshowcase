@@ -1,3 +1,15 @@
+# AngellXR is fully dedicated to the open source Metaverse. We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
+
+To contribute your project to XR Showcase, we just need a URL. It is recommended that you use tools, and frameworks that result in cross-compatible experiences.
+
+To improve XRShowcase, please fork and submit a PR. The person writing this is a product manager. Save me from myself. <3
+
+# What does AngellXR do?
+
+We are an open community dedicated to the open Metaverse. We believe everyone can add value to and benefit from the Metaverse. We believe in lifting each other up as the Metaverse is bigger than all of us. We value mobile first (while we still have phones) as it lowers the barrier to entry for users to experience the Metaverse.
+
+We strive to make everything we do open source, and expandable. It has to be bigger than one person.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
