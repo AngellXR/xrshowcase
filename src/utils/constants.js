@@ -12,19 +12,19 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
     description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
     link: "https://mementos.city/",
+  },
+  {
+    title: "{{RetroXR Hack}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/classicxr.gif",
+    description:"This is where it's all going down for the RetroXR Hackathon.",
+    link: "https://hubs.mozilla.com/ksGYzzj/angellxr",
   }, 
   {
     title: "{{TetrisArcade}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
     description:"Explore new twists on an old classic (and on any device) in Tetris Arcade.",
     link: "https://tetrisarcade.xyz/",
-  },  
-  {
-    title: "{{ClassicXR}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/classicxr.gif",
-    description:"An early rendering of a paper World for our upcoming hackathon.",
-    link: "https://classicsxr.glitch.me/",
-  },  
+  },   
   {
     title: "{{SIMULACRA}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/simulacra.gif",
