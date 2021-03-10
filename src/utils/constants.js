@@ -20,10 +20,10 @@ export const CARDINFO = Object.freeze([
     link: "https://hubs.mozilla.com/ksGYzzj/angellxr",
   }, 
   {
-    title: "{{TetrisArcade}}",
+    title: "{{BlocksArcade}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
-    description:"Explore new twists on an old classic (and on any device) in Tetris Arcade.",
-    link: "https://tetrisarcade.xyz/",
+    description:"Explore new twists on an old classic (and on any device) in Blocks Arcade.",
+    link: "https://blocksarcade.xyz/",
   },   
   {
     title: "{{SIMULACRA}}",
