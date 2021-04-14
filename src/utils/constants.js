@@ -8,6 +8,18 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{JanusWeb}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
+    description:"A showcase of thousands of worlds people built on vesta.janusxr.org/",
+    link: "https://web.janusxr.org/",
+  },
+  {
+    title: "{{Hub of Hubs}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/hubs.gif",
+    description:"150+ Mozilla Hubs rooms, all linked together, compatible on any device.",
+    link: "https://anonym.haus/rooms.html",
+  },
+  {
     title: "{{Mementos}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
     description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
