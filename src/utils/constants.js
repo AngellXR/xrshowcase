@@ -8,9 +8,21 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{YE}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
+    description:"Yeezy watches over you",
+    link: "https://hubs.mozilla.com/Uhw7EnR",
+  },
+  {
+    title: "{{threeple}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/threejs.gif",
+    description:"Threejs Web VR + AR examples straight from the source of inspiration for many of us.",
+    link: "https://threejs.org/examples/?q=webxr#webxr_ar_lighting",
+  },
+  {
     title: "{{JanusWeb}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
-    description:"A showcase of thousands of worlds people built on vesta.janusxr.org/",
+    description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
     link: "https://web.janusxr.org/",
   },
   {
@@ -182,3 +194,11 @@ export const CARDINFO = Object.freeze([
   //   link: "https://www.fillmurray.com/",
   // },
 ]);
+
+  //removed due to Quest-only, and browser with plug-in only support
+  // {
+  //   title: "{{VR Shooter}}",
+  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/vrshooter.gif",
+  //   description:"Experience this simple shooter on Quest I & II",
+  //   link: "https://quest2-shoot-arfukuoka.glitch.me/",
+  // },
