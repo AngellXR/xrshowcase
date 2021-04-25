@@ -8,6 +8,12 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{Plockle}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
+    description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
+    link: "https://plockle.com",
+  },
+  {
     title: "{{YE}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
     description:"Yeezy watches over you",
