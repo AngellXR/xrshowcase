@@ -8,6 +8,18 @@ export const CARDINFO = Object.freeze([
 
   // Have to comment two submissions out until I can get a better gif
   {
+    title: "{{Barrier Mage}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/barrier.gif",
+    description:"Draw mystic symbols which burn, protect, bind, detect, illuminate or link. Use these spells to drive off fantastic creatures! Note: VR Required",
+    link: "https://dougreeder.github.io/barrier-mage/",
+  },
+  {
+    title: "{{WeBuildXR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webuild.gif",
+    description:"A retro-inspired world building experience, using Babylon.js",
+    link: "https://webuildxr.github.io/app/",
+  },
+  {
     title: "{{Plockle}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
     description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
