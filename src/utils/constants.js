@@ -7,11 +7,18 @@ export const CARDINFO = Object.freeze([
   // },
 
   // Have to comment two submissions out until I can get a better gif
+
   {
-    title: "{{Barrier Mage}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/barrier.gif",
-    description:"Draw mystic symbols which burn, protect, bind, detect, illuminate or link. Use these spells to drive off fantastic creatures! Note: VR Required",
-    link: "https://dougreeder.github.io/barrier-mage/",
+    title: "{{SpaceTrain}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
+    description:"Hop aboard an XR train ride to various different experiences.",
+    link: "https://train.gatunes.com/#/Metro",
+  },
+  {
+    title: "{{Animalia Art Show}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
+    description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
+    link: "https://framevr.io/kibsdart",
   },
   {
     title: "{{WeBuildXR}}",
@@ -20,23 +27,12 @@ export const CARDINFO = Object.freeze([
     link: "https://webuildxr.github.io/app/",
   },
   {
-    title: "{{Plockle}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
-    description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
-    link: "https://plockle.com",
-  },
-  {
     title: "{{YE}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
     description:"Yeezy watches over you",
     link: "https://hubs.mozilla.com/Uhw7EnR",
   },
-  {
-    title: "{{threeple}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/threejs.gif",
-    description:"Threejs Web VR + AR examples straight from the source of inspiration for many of us.",
-    link: "https://threejs.org/examples/?q=webxr#webxr_ar_lighting",
-  },
+
   {
     title: "{{JanusWeb}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
@@ -68,12 +64,6 @@ export const CARDINFO = Object.freeze([
     link: "https://blocksarcade.xyz/",
   },   
   {
-    title: "{{SIMULACRA}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/simulacra.gif",
-    description:"SIMULACRA is a WebXR art experience featuring the work of over 13 Twin Cities artists who work in digital and new media mediums.",
-    link: "https://virtualrem5.com/as6hbyy/simulacra",
-  },
-  {
     title: "{{S.E.N.S WebVR}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
     description:"LucidWeb worked with ARTE and Red Corner to make the first VR game inspired by a graphic novel. In 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for the unknown in a meditative and surreal maze.",
@@ -98,10 +88,28 @@ export const CARDINFO = Object.freeze([
     link: "https://starship0.glitch.me/",
   },
   {
-    title: "{{SpaceTrain}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
-    description:"Hop aboard an XR train ride to various different experiences.",
-    link: "https://train.gatunes.com/#/Metro",
+    title: "{{Plockle}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
+    description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
+    link: "https://plockle.com",
+  },
+  {
+    title: "{{Barrier Mage}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/barrier.gif",
+    description:"Draw mystic symbols which burn, protect, bind, detect, illuminate or link. Use these spells to drive off fantastic creatures! Note: VR Required",
+    link: "https://dougreeder.github.io/barrier-mage/",
+  },
+  {
+    title: "{{threeple}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/threejs.gif",
+    description:"Threejs Web VR + AR examples straight from the source of inspiration for many of us.",
+    link: "https://threejs.org/examples/?q=webxr#webxr_ar_lighting",
+  },
+  {
+    title: "{{SIMULACRA}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/simulacra.gif",
+    description:"SIMULACRA is a WebXR art experience featuring the work of over 13 Twin Cities artists who work in digital and new media mediums.",
+    link: "https://virtualrem5.com/as6hbyy/simulacra",
   },
   {
     title: "{{D.C. 360}}",
@@ -120,12 +128,6 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/dhf020721.gif",
     description:"First capture of sunset at a farm house in Maryland.",
     link: "https://sunset-edgewater.glitch.me",
-  },
-  {
-    title: "{{Animalia Art Show}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-    description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
-    link: "https://framevr.io/kibsdart",
   },
   {
     title: "{{Troll Tower}}",
