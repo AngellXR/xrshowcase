@@ -9,6 +9,12 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
 
   {
+    title: "{{OMi Hangout}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
+    description:"Built wiht framevr, up to 40 avatars can meet for lightning talks, demo days, and more.",
+    link: "https://framevr.io/angellxr",
+  },
+  {
     title: "{{SpaceTrain}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
     description:"Hop aboard an XR train ride to various different experiences.",
@@ -32,7 +38,12 @@ export const CARDINFO = Object.freeze([
     description:"Yeezy watches over you",
     link: "https://hubs.mozilla.com/Uhw7EnR",
   },
-
+  {
+    title: "{{Mementos}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
+    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
+    link: "https://mementos.city/",
+  },
   {
     title: "{{JanusWeb}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
@@ -40,16 +51,16 @@ export const CARDINFO = Object.freeze([
     link: "https://web.janusxr.org/",
   },
   {
+    title: "{{Webaverse}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
+    description:"The Internet MMO built with NFTs.",
+    link: "https://app.webaverse.com/",
+  },
+  {
     title: "{{Hub of Hubs}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/hubs.gif",
     description:"150+ Mozilla Hubs rooms, all linked together, compatible on any device.",
     link: "https://anonym.haus/rooms.html",
-  },
-  {
-    title: "{{Mementos}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
-    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
-    link: "https://mementos.city/",
   },
   {
     title: "{{RetroXR Hack}}",
@@ -74,12 +85,6 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/silkbrush.gif",
     description:"Silk Brush is a port of Tilt Brush to WebXR. Headset required.",
     link: "https://msub2.github.io/silk-brush/",
-  },
-  {
-    title: "{{Webaverse}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
-    description:"The Internet MMO built with NFTs.",
-    link: "https://app.webaverse.com/",
   },
   {
     title: "{{Starship0}}",
