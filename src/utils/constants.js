@@ -11,7 +11,7 @@ export const CARDINFO = Object.freeze([
   {
     title: "{{OMi Hangout}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
-    description:"Built wiht framevr, up to 40 avatars can meet for lightning talks, demo days, and more.",
+    description:"Built with framevr, up to 40 avatars can meet for lightning talks, demo days, and more.",
     link: "https://framevr.io/angellxr",
   },
   {
