@@ -10,7 +10,20 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   
+  {
     title: "{{Dudes!}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/dudes.gif",
+    description:"Help the Chief gather the dudes! Alpha version of dani gatunes new voxel engine built with threejs",
+    link: "https://dudes.gatunes.com/",
+  },
+
+  {
+    title: "{{NaughtyAmerica}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/naughtyam.gif",
+    description:"A slightly NSFW mini-metaverse. Explore, dance at the nightclub, and express yourself.",
+    link: "https://www.naughtyamerica.net/",
+  },
+
   {
     title: "{{OMi Hangout}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
@@ -18,16 +31,16 @@ export const CARDINFO = Object.freeze([
     link: "https://framevr.io/angellxr",
   },
   {
-    title: "{{SpaceTrain}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
-    description:"Hop aboard an XR train ride to various different experiences.",
-    link: "https://train.gatunes.com/#/Metro",
-  },
-  {
     title: "{{Animalia Art Show}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
     description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
     link: "https://framevr.io/kibsdart",
+  },
+  {
+    title: "{{WebXR Events}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webxrEvents.gif",
+    description:"Explore The Polys WebXR Award winners, and other events like the upcoming WebXR Developer summit.",
+    link: "https://webxr.events/",
   },
   {
     title: "{{WeBuildXR}}",
@@ -40,6 +53,12 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
     description:"Yeezy watches over you",
     link: "https://hubs.mozilla.com/Uhw7EnR",
+  },
+  {
+    title: "{{SpaceTrain}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
+    description:"Hop aboard an XR train ride to various different experiences.",
+    link: "https://train.gatunes.com/#/Metro",
   },
   {
     title: "{{Mementos}}",
