@@ -10,6 +10,7 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   
+    title: "{{Dudes!}}",
   {
     title: "{{OMi Hangout}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
