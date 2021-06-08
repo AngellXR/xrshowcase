@@ -9,14 +9,55 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
-  
+  {
+    title: "{{BlocksArcade}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
+    description:"Explore new twists on an old classic (and on any device) in Blocks Arcade.",
+    link: "https://blocksarcade.xyz/",
+  },   
+  {
+    title: "{{S.E.N.S WebVR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
+    description:"LucidWeb worked with ARTE and Red Corner to make the first VR game inspired by a graphic novel. In 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for the unknown in a meditative and surreal maze.",
+    link: "https://sens.arte.tv/webvr/",
+  },
   {
     title: "{{Dudes!}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/dudes.gif",
     description:"Help the Chief gather the dudes! Alpha version of dani gatunes new voxel engine built with threejs",
     link: "https://dudes.gatunes.com/",
   },
-
+  {
+    title: "{{YE}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
+    description:"Yeezy watches over you",
+    link: "https://hubs.mozilla.com/Uhw7EnR",
+  },
+  {
+    title: "{{SpaceTrain}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
+    description:"Hop aboard an XR train ride to various different experiences.",
+    link: "https://train.gatunes.com/#/Metro",
+  },
+  {
+    title: "{{Mementos}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
+    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
+    link: "https://mementos.city/",
+  },
+  {
+    title: "{{Plockle}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
+    description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
+    link: "https://plockle.com",
+  },
+  {
+    title: "{{JanusWeb}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
+    description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
+    link: "https://web.janusxr.org/",
+  },
+  
   {
     title: "{{NaughtyAmerica}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/naughtyam.gif",
@@ -49,36 +90,6 @@ export const CARDINFO = Object.freeze([
     link: "https://webuildxr.github.io/app/",
   },
   {
-    title: "{{YE}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
-    description:"Yeezy watches over you",
-    link: "https://hubs.mozilla.com/Uhw7EnR",
-  },
-  {
-    title: "{{SpaceTrain}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
-    description:"Hop aboard an XR train ride to various different experiences.",
-    link: "https://train.gatunes.com/#/Metro",
-  },
-  {
-    title: "{{Mementos}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
-    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
-    link: "https://mementos.city/",
-  },
-  {
-    title: "{{JanusWeb}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
-    description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
-    link: "https://web.janusxr.org/",
-  },
-  {
-    title: "{{Webaverse}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
-    description:"The Internet MMO built with NFTs.",
-    link: "https://app.webaverse.com/",
-  },
-  {
     title: "{{Hub of Hubs}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/hubs.gif",
     description:"150+ Mozilla Hubs rooms, all linked together, compatible on any device.",
@@ -90,18 +101,6 @@ export const CARDINFO = Object.freeze([
     description:"This is where it's all going down for the RetroXR Hackathon.",
     link: "https://hubs.mozilla.com/ksGYzzj/angellxr",
   }, 
-  {
-    title: "{{BlocksArcade}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
-    description:"Explore new twists on an old classic (and on any device) in Blocks Arcade.",
-    link: "https://blocksarcade.xyz/",
-  },   
-  {
-    title: "{{S.E.N.S WebVR}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/sens.gif",
-    description:"LucidWeb worked with ARTE and Red Corner to make the first VR game inspired by a graphic novel. In 10 minutes the character created by Marc-Antoine Mathieu comes to life searching for the unknown in a meditative and surreal maze.",
-    link: "https://sens.arte.tv/webvr/",
-  },
   {
     title: "{{SilkBrush}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/silkbrush.gif",
@@ -115,16 +114,16 @@ export const CARDINFO = Object.freeze([
     link: "https://starship0.glitch.me/",
   },
   {
-    title: "{{Plockle}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/plockle.gif",
-    description:"Challenging and addictive block puzzle game in virtual reality, in your browser. Note: VR Required",
-    link: "https://plockle.com",
-  },
-  {
     title: "{{Barrier Mage}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/barrier.gif",
     description:"Draw mystic symbols which burn, protect, bind, detect, illuminate or link. Use these spells to drive off fantastic creatures! Note: VR Required",
     link: "https://dougreeder.github.io/barrier-mage/",
+  },
+  {
+    title: "{{Webaverse}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
+    description:"The Internet MMO built with NFTs.",
+    link: "https://app.webaverse.com/",
   },
   {
     title: "{{threeple}}",
