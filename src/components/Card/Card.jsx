@@ -19,7 +19,7 @@ const StyledCard = styled.div`
   // left: calc(50% - 18.75em / 2);
   // top: calc(50% - 25.8125em / 2 - 0.5px);
 
-  background: #333333;
+  background: #FFF4CF;
   // border: 1.3vh solid #000000;
   border: clamp(7px, 1.6vh, 10px) solid #030303;
   // box-shadow: 1.25em 1.25em 0.25em #623cea;
