@@ -1,6 +1,9 @@
 export const CARDINFO = Object.freeze([
+  /**
+   * Please use this format to add your project :D
+   **/
   // {
-  //   title: "{{Logo Starter Template}}",
+  //   title: "{{TITLE OF YOUR PROJECT}}",
   //   imgURL: "https://d3i9te5634opuo.cloudfront.net/LothianSky.gif",
   //   description:"Starter Template to have your own AngellXR Logo in your A-Frame Experience",
   //   link: "https://angellxr-starterlogo.glitch.me/",
@@ -9,6 +12,13 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
+
+  {
+    title: "{{ExtendedCollection}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/extcol.gif",
+    description:"The Extended Collection is a curated library of links to the Immersive Web. Explore new worlds in VR and AR right from your browser.",
+    link: "https://extendedcollection.com/category/library",
+  },   
   {
     title: "{{BlocksArcade}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/tetris.gif",
@@ -199,6 +209,12 @@ export const CARDINFO = Object.freeze([
     link: "https://oceancity.glitch.me",
   },
   {
+    title: "{{Frame}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/frame.gif",
+    description:"Frame is a 3D collaboration and creation tool. It lets people quickly create a space and come together.",
+    link: "https://framevr.io/",
+  },
+  {
     title: "{{Horror Lobby}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/HorrorRoom.gif",
     description:"Small room with old horror movie posters and floating spirit.",
@@ -226,6 +242,12 @@ export const CARDINFO = Object.freeze([
     link: "https://edgewater-dream.glitch.me/",
   },
   {
+    title: "{{Hubs}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/hubs.gif",
+    description: "Mozilla hubs is a place to meet friends, host events, and experiment with webxr.",
+    link: "https://hubs.mozilla.com/",
+  },
+  {
     title: "{{ChessVR}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/chessvr.gif",
     description: "aframe Chess, because we can.",
@@ -237,6 +259,13 @@ export const CARDINFO = Object.freeze([
     description: "Aerial view of a Marlboro Hunt Club hound walk, Fall 2020",
     link: "https://marlboro-hounds.glitch.me/",
   },
+  {
+    title: "{{MOONRIDER}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/moonrider.gif",
+    description: "WORKOUT: Dance to the beat and smash blocks to crunchy tunes (it's open source!) ",
+    link: "https://moonrider.xyz/",
+  },
+
 
   // Test Card below
   // {
