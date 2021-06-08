@@ -28,6 +28,12 @@ export const CARDINFO = Object.freeze([
     link: "https://dudes.gatunes.com/",
   },
   {
+    title: "{{vrland}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
+    description:"Explore this piece of the Metaverse (supports live streaming)",
+    link: "https://twitter.com/vlandio",
+  },
+  {
     title: "{{YE}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
     description:"Yeezy watches over you",
