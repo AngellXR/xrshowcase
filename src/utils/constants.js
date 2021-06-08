@@ -261,6 +261,7 @@ export const CARDINFO = Object.freeze([
   },
   {
     title: "{{MOONRIDER}}",
+    // imgURL: "/videos/moonrider.mp4",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/moonrider.gif",
     description: "WORKOUT: Dance to the beat and smash blocks to crunchy tunes (it's open source!) ",
     link: "https://moonrider.xyz/",

@@ -8,7 +8,7 @@ const StyledCardGif = styled.div`
   left: 0px;
   top: 0px;
 
-  background: url(.gif);
+  background: url(.gif, .mp4);
   border-radius: 1.25em;
 
   /* Inside Auto Layout */
