@@ -16,24 +16,7 @@ export const CARDINFO = Object.freeze([
     description:"Help the Chief gather the dudes! Alpha version of dani gatunes new voxel engine built with threejs",
     link: "https://dudes.gatunes.com/",
   },
-  {
-    title: "{{Webaverse}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
-    description:"The Internet MMO built with NFTs.",
-    link: "https://app.webaverse.com/",
-  },
-  {
-    title: "{{Animalia Art Show}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
-    description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
-    link: "https://framevr.io/kibsdart",
-  },
-  {
-    title: "{{WebXR Events}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/webxrEvents.gif",
-    description:"Explore The Polys WebXR Award winners, and other events like the upcoming WebXR Developer summit.",
-    link: "https://webxr.events/",
-  },
+
   {
     title: "{{NaughtyAmerica}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/naughtyam.gif",
@@ -46,6 +29,18 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
     description:"Built with framevr, up to 40 avatars can meet for lightning talks, demo days, and more.",
     link: "https://framevr.io/angellxr",
+  },
+  {
+    title: "{{Animalia Art Show}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/animalia.gif",
+    description:"The process of ANIMALIA provides a glimpse into the creative mind of an 8th Grade Artist.",
+    link: "https://framevr.io/kibsdart",
+  },
+  {
+    title: "{{WebXR Events}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webxrEvents.gif",
+    description:"Explore The Polys WebXR Award winners, and other events like the upcoming WebXR Developer summit.",
+    link: "https://webxr.events/",
   },
   {
     title: "{{WeBuildXR}}",
@@ -77,7 +72,12 @@ export const CARDINFO = Object.freeze([
     description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
     link: "https://web.janusxr.org/",
   },
-
+  {
+    title: "{{Webaverse}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/webaverse.gif",
+    description:"The Internet MMO built with NFTs.",
+    link: "https://app.webaverse.com/",
+  },
   {
     title: "{{Hub of Hubs}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/hubs.gif",
