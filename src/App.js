@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <body>
+      <div>
         <PageTitle />
         <h3>
         Each card contains a VR or AR experience. Browse Worlds, memories, sites, and assets on any device.
@@ -24,7 +24,7 @@ function App() {
         <div>
           <CardGrid />
         </div>
-      </body>
+      </div>
     </div>
   );
 }

@@ -9,7 +9,9 @@ const StyledCardGif = styled.div`
   top: 0px;
 
   background: url(.gif, .mp4);
-  border-radius: 1.25em;
+  border-radius: 0.80em;
+  overflow: hidden;
+
 
   /* Inside Auto Layout */
 

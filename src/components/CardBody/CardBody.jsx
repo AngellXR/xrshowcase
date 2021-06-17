@@ -13,10 +13,11 @@ const StyledCardBody = styled.div`
   flex-direction: column;
   align-items: flex-start;
   padding: 0.75em;
+  background-color: #333333;
 
   position: relative;
   width: 299px;
-  height: 125px;
+  height: 150px;
   margin: 0;
 `;
 
