@@ -14,6 +14,12 @@ export const CARDINFO = Object.freeze([
   //and this one too
 
   {
+    title: "{{Jel}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/jel.gif",
+    description:"Meet the un-Zoom. Jel is the collaboration tool made for teams and communities who like to have fun.",
+    link: "https://jel.app/",
+  },   
+  {
     title: "{{ExtendedCollection}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/extcol.gif",
     description:"The Extended Collection is a curated library of links to the Immersive Web. Explore new worlds in VR and AR right from your browser.",
