@@ -1,4 +1,6 @@
-# AngellXR is fully dedicated to the open source Metaverse. We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
+# AngellXR is fully dedicated to the open source Metaverse. 
+### https://xrshowcase.xyz
+We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
 
 To contribute your project to XR Showcase, we just need a URL. It is recommended that you use tools, and frameworks that result in cross-compatible experiences.
 
