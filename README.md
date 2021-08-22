@@ -1,4 +1,4 @@
-# AngellXR is fully dedicated to the open source Metaverse. 
+# AngellXR is fully dedicated to the open Metaverse. 
 ### https://xrshowcase.xyz
 We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
 
@@ -11,6 +11,24 @@ To improve XRShowcase, please fork and submit a PR. The person writing this is a
 We are an open community dedicated to the open Metaverse. We believe everyone can add value to and benefit from the Metaverse. We believe in lifting each other up as the Metaverse is bigger than all of us. We value mobile first (while we still have phones) as it lowers the barrier to entry for users to experience the Metaverse.
 
 We strive to make everything we do open source, and expandable. It has to be bigger than one person.
+
+# Adding experiences to this site 
+Option 1: 
+- Visit [this google form](https://forms.gle/UfpUuKmvXQGjuX737) to submit new experiences  
+
+Option 2: 
+- Fork this repo 
+- navigate to src
+- navigate to utils 
+- find the file constants.js 
+- Look at the code chunks. When you see the pattern, copy a chunk and paste it before or arter another experience chunk of code. 
+    - careful that you don't erase a "," or ";" 
+- Replace your new chunk of code with your new information: 
+    - add a title
+    - description (short and sweet - max 200 characters)
+    - add a link to yiur experience 
+    - add a link to a gif or image of your experience (currently only supports gifs) 
+- save, and submit your Pull request! 
 
 # Getting Started with Create React App
 
