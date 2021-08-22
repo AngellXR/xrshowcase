@@ -21,12 +21,12 @@ Option 2:
 - navigate to src
 - navigate to utils 
 - find the file constants.js 
-- Look at the code chunks. When you see the pattern, copy a chunk and paste it before or arter another experience chunk of code. 
+- Look at the code chunks. When you see the pattern, copy a chunk and paste it before or after another experience chunk of code. 
     - careful that you don't erase a "," or ";" 
 - Replace your new chunk of code with your new information: 
     - add a title
     - description (short and sweet - max 200 characters)
-    - add a link to yiur experience 
+    - add a link to your experience 
     - add a link to a gif or image of your experience (currently only supports gifs) 
 - save, and submit your Pull request! 
 
