@@ -15,7 +15,7 @@ export const CARDINFO = Object.freeze([
 
   {
     title: "{{XR Graph}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/xrgraph.gif7",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/xrgraph.gif",
     description:"Hands-on mathematics! Experience and manipulate 3D math graphs in VR.",
     link: "https://xr-graph.vercel.app",
   },   
