@@ -8,7 +8,7 @@ const StyledCardGif = styled.div`
   left: 0px;
   top: 0px;
 
-  background: url(.gif, .mp4);
+  background: url(.gif, .mp4, .png, .jpg);
   border-radius: 0.80em;
   overflow: hidden;
 
