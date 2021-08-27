@@ -15,13 +15,13 @@ export const CARDINFO = Object.freeze([
 
   {
     title: "{{XR Graph}}",
-    imgURL: "https://fillmurray.com/g/300/287",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/xrgraph.gif7",
     description:"Hands-on mathematics! Experience and manipulate 3D math graphs in VR.",
     link: "https://xr-graph.vercel.app",
   },   
   {
     title: "{{Whiteboard VR}}",
-    imgURL: "https://fillmurray.com/g/300/287",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/whiteboard.gif",
     description:"A collaborative whiteboard for desktop, mobile and VR!",
     link: "https://whiteboard-vr.herokuapp.com",
   },   
