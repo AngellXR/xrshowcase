@@ -12,7 +12,12 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
-
+  {
+    title: "{{Kodiak 360}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/kodiak.gif",
+    description:"Explore Kodiak in Alaska with this interactive 360 tour by @mrawhite.",
+    link: "https://xr-graph.vercel.app",
+  },  
   {
     title: "{{XR Graph}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/xrgraph.gif",
