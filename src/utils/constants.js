@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{Cryptovoxels}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/cryptovoxels.gif",
+    description:"Cryptovoxels is a virtual world (in the) metaverse, powered by the Ethereum blockchain. .",
+    link: "https://www.cryptovoxels.com/",
+  },  
+  {
     title: "{{Kodiak 360}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/kodiak.gif",
     description:"Explore Kodiak in Alaska with this interactive 360 tour by @mrawhite.",
