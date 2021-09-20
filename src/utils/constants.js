@@ -22,7 +22,7 @@ export const CARDINFO = Object.freeze([
     title: "{{Kodiak 360}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/kodiak.gif",
     description:"Explore Kodiak in Alaska with this interactive 360 tour by @mrawhite.",
-    link: "https://xr-graph.vercel.app",
+    link: "https://kodiak360.glitch.me/",
   },  
   {
     title: "{{XR Graph}}",
