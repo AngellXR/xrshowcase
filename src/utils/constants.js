@@ -14,7 +14,7 @@ export const CARDINFO = Object.freeze([
   //and this one too
   {
     title: "{{Angell Cathedral}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/cryptovoxels.gif",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/cryptoangell.gif",
     description:"Built with cryptovoxels free spaces.",
     link: "https://www.cryptovoxels.com/spaces/a3b3a554-d25f-4ab0-8c7c-854bc23e4c7f",
   },  
