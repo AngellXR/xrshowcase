@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{VR Typing}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrtyping.gif",
+    description:"A tranquil VR typing experience, perfect for rapid focus, and haikus.",
+    link: "https://zach-geek.gitlab.io/vrtyping/",
+  },  
+  {
     title: "{{Angell Cathedral}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/cryptoangell.gif",
     description:"Built with cryptovoxels free spaces.",
