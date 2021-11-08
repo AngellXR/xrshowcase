@@ -12,6 +12,14 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
+
+
+  {
+    title: "{{Manifested}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/manifested.gif",
+    description:"A short story about angels.",
+    link: "https://manifested.app",
+  },  
   {
     title: "{{VR Typing}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/vrtyping.gif",
