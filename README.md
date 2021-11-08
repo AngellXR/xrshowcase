@@ -61,7 +61,7 @@ You will also see any lint errors in the console.
 
 ### `npm run storybook`
 
-Runs the app in the storybook mode.\
+Runs the app in the storybook mode. We leverage an atomic design system paired with figma using storybook for better design consistency and communication.\
 Open [http://localhost:6006](http://localhost:6006) to view components in both coded and figma formats.
 
 The page will reload if you make edits.\
