@@ -15,6 +15,12 @@ export const CARDINFO = Object.freeze([
 
 
   {
+    title: "{{Diwali XR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/diwali.gif",
+    description:"Diwali Festival in #WebXR  2021.",
+    link: "https://t.co/Td8tMAfEbO?amp=1",
+  },  
+  {
     title: "{{Manifested}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/manifested.gif",
     description:"A short story about angels.",
