@@ -15,10 +15,28 @@ export const CARDINFO = Object.freeze([
 
 
   {
-    title: "{{Diwali XR}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/diwali.gif",
-    description:"Diwali Festival in #WebXR  2021.",
-    link: "https://t.co/Td8tMAfEbO?amp=1",
+    title: "{{43 Diamond}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/43diamond.gif",
+    description:"The new hottest spot in Scarcity. Want edit rights? DM @mrmetaverse on twitter.",
+    link: "https://www.cryptovoxels.com/play?coords=1369W,1079S,",
+  },  
+  {
+    title: "{XR Xmas}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/xmas.gif",
+    description:"Christmas Festival in #WebXR 2021.",
+    link: "https://xrxmas.glitch.me/",
+  },  
+  {
+    title: "{{Vartiste}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vartiste.gif",
+    description:"VARTISTE is an open source virtual reality app for 2D drawing, image editing, 3D model texturing, and much more, right from the browser!",
+    link: "https://vartiste.xyz/",
+  },  
+  {
+    title: "{{RollAR Coaster}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/coaster.gif",
+    description:"Design your own AR Roller Coaster experience, with your smartphone.",
+    link: "https://ada.is/rollAR-coaster/",
   },  
   {
     title: "{{Manifested}}",
