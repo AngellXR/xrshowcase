@@ -15,6 +15,12 @@ export const CARDINFO = Object.freeze([
 
 
   {
+    title: "{{Kodiak HS Games}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/kodiakgames.gif",
+    description:"Kodian High students created some amazing #bitsy games these past few weeks. Explore a showcase of their games an an arcade-like setting using @frame_vr.",
+    link: "https://framevr.io/kodiak",
+  },  
+  {
     title: "{{43 Diamond}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/43diamond.gif",
     description:"The new hottest spot in Scarcity. Want edit rights? DM @mrmetaverse on twitter.",
