@@ -15,9 +15,15 @@ export const CARDINFO = Object.freeze([
 
 
   {
+    title: "{{Obscura}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/obscura.gif",
+    description:"Step inside a World that challenges perception of space, and time. An artistic experience by the team at Third Axis.",
+    link: "https://obscura.world/app/",
+  },  
+  {
     title: "{{Kodiak HS Games}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/kodiakgames.gif",
-    description:"Kodian High students created some amazing #bitsy games these past few weeks. Explore a showcase of their games an an arcade-like setting using @frame_vr.",
+    description:"Kodiak High students created some amazing #bitsy games these past few weeks. Explore a showcase of their games an an arcade-like setting using @frame_vr.",
     link: "https://framevr.io/kodiak",
   },  
   {
