@@ -12,7 +12,26 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
+  {
+    title: "{{Mementos}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
+    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
+    link: "https://mementos.city/",
+  },
 
+  {
+    title: "{{AR Christmas Tree}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/artree.gif",
+    description:"This is an augmented reality (AR) marker-based Christmas tree. Enable camera settings, and find a nice place to view your tree.",
+    link: "https://entwurfswerk.de/weihnachten-21-karte.html",
+  },  
+
+  {
+    title: "{{Virtual Reign}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vreign.gif",
+    description:"Virtual Reign is a free chess game with cross-play for desktop and other #WebXR kits.",
+    link: "https://vreign.space",
+  },  
 
   {
     title: "{{Mount Nemrut}}",
@@ -145,12 +164,6 @@ export const CARDINFO = Object.freeze([
     imgURL: "https://d3i9te5634opuo.cloudfront.net/train.gif",
     description:"Hop aboard an XR train ride to various different experiences.",
     link: "https://train.gatunes.com/#/Metro",
-  },
-  {
-    title: "{{Mementos}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
-    description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
-    link: "https://mementos.city/",
   },
   {
     title: "{{Plockle}}",
