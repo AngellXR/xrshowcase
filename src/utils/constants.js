@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{VRLand.io}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
+    description:"The 3d home space for your digital creations.",
+    link: "https://vrland.io/jm4Tp6/Triskelion__",
+  },
+  {
     title: "{{Mementos}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
     description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
