@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{Castle Builder}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/castle.gif",
+    description:"Build XR castles with friends on headset or mobile.",
+    link: "https://castle.needle.tools/",
+  },
+  {
     title: "{{VRLand.io}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
     description:"The 3d home space for your digital creations.",
