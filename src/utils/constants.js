@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{Immersions.art}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/immersions.gif",
+    description:"Immersions.art is a virtual reality platform dedicated to immersive art on the web.",
+    link: "https://immersions.art",
+  },
+  {
     title: "{{Castle Builder}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/castle.gif",
     description:"Build XR castles with friends on headset or mobile.",
