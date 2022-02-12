@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{Brushwork}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/brushworkvr.gif",
+    description:"Paint your heart out in VR! A web-based tool for painting and sharing so your friends can view in AR on their phone!",
+    link: "https://brushworkvr.com/paint",
+  },
+  {
     title: "{{Immersions.art}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/immersions.gif",
     description:"Immersions.art is a virtual reality platform dedicated to immersive art on the web.",
