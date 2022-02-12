@@ -13,6 +13,13 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{JanusWeb}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
+    description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
+    link: "https://web.janusxr.org/",
+  },
+
+  {
     title: "{{RogueSaber}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/roguesaber.gif",
     description:"Choose your saber, and use your saber skills to defend against drones. Uses WebXR!",
@@ -37,32 +44,37 @@ export const CARDINFO = Object.freeze([
     link: "https://castle.needle.tools/",
   },
   {
-    title: "{{VRLand.io}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
-    description:"The 3d home space for your digital creations.",
-    link: "https://vrland.io/jm4Tp6/Triskelion__",
-  },
-  {
     title: "{{Mementos}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/mementos.gif",
     description:"A 1km² city that runs on your browser. Explore, find and leave ephemeral audio messages in VR with any PC or webxr compatible headset. #threejs",
     link: "https://mementos.city/",
   },
-
   {
-    title: "{{AR Christmas Tree}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/artree.gif",
-    description:"This is an augmented reality (AR) marker-based Christmas tree. Enable camera settings, and find a nice place to view your tree.",
-    link: "https://entwurfswerk.de/weihnachten-21-karte.html",
-  },  
+    title: "{{VRLand.io}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
+    description:"The 3d home space for your digital creations.",
+    link: "https://vrland.io/jm4Tp6/Triskelion__",
+  },
 
   {
     title: "{{Virtual Reign}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/vreign.gif",
     description:"Virtual Reign is a free chess game with cross-play for desktop and other #WebXR kits.",
     link: "https://vreign.space",
+  },
+  {
+    title: "{{MOONRIDER}}",
+    // imgURL: "/videos/moonrider.mp4",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/moonrider.gif",
+    description: "WORKOUT: Dance to the beat and smash blocks to crunchy tunes (it's open source!) ",
+    link: "https://moonrider.xyz/",
   },  
-
+  {
+    title: "{{AR Christmas Tree}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/artree.gif",
+    description:"This is an augmented reality (AR) marker-based Christmas tree. Enable camera settings, and find a nice place to view your tree.",
+    link: "https://entwurfswerk.de/weihnachten-21-karte.html",
+  },  
   {
     title: "{{Mount Nemrut}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/balloon.gif",
@@ -178,12 +190,6 @@ export const CARDINFO = Object.freeze([
     link: "https://dudes.gatunes.com/",
   },
   {
-    title: "{{vrland}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/vrland.gif",
-    description:"Explore this piece of the Metaverse (supports live streaming)",
-    link: "https://twitter.com/vlandio",
-  },
-  {
     title: "{{YE}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/yeezy.gif",
     description:"Yeezy watches over you",
@@ -202,13 +208,6 @@ export const CARDINFO = Object.freeze([
     link: "https://plockle.com",
   },
   {
-    title: "{{JanusWeb}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
-    description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
-    link: "https://web.janusxr.org/",
-  },
-  
-  {
     title: "{{NaughtyAmerica}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/naughtyam.gif",
     description:"A slightly NSFW mini-metaverse. Explore, dance at the nightclub, and express yourself.",
@@ -216,7 +215,7 @@ export const CARDINFO = Object.freeze([
   },
 
   {
-    title: "{{OMi Hangout}}",
+    title: "{{OG OMi Hangout}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/omiframe.gif",
     description:"Built with framevr, up to 40 avatars can meet for lightning talks, demo days, and more.",
     link: "https://framevr.io/angellxr",
@@ -393,13 +392,7 @@ export const CARDINFO = Object.freeze([
     description: "Aerial view of a Marlboro Hunt Club hound walk, Fall 2020",
     link: "https://marlboro-hounds.glitch.me/",
   },
-  {
-    title: "{{MOONRIDER}}",
-    // imgURL: "/videos/moonrider.mp4",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/moonrider.gif",
-    description: "WORKOUT: Dance to the beat and smash blocks to crunchy tunes (it's open source!) ",
-    link: "https://moonrider.xyz/",
-  },
+
 
 
   // Test Card below
