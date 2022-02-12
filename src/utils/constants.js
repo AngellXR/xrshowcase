@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{RogueSaber}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/roguesaber.gif",
+    description:"Choose your saber, and use your saber skills to defend against drones. Uses WebXR!",
+    link: "https://roguesaber.rvdleun.com/",
+  },
+  {
     title: "{{Brushwork}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/brushworkvr.gif",
     description:"Paint your heart out in VR! A web-based tool for painting and sharing so your friends can view in AR on their phone!",
