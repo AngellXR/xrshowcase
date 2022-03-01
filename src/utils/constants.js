@@ -13,12 +13,17 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{MarsX}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/marsx.gif",
+    description:"Year is 5098, Extraterrestrial Intelligence has taken over Artificial Intelligence. Final Stand to defend to the Human Race.",
+    link: "https://marsx.glitch.me/",
+  },
+  {
     title: "{{JanusWeb}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/janus.gif",
     description:"A showcase of thousands of worlds people built on vesta.janusxr.org",
     link: "https://web.janusxr.org/",
   },
-
   {
     title: "{{RogueSaber}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/roguesaber.gif",
