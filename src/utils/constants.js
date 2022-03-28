@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{AnVRopomotron}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/anvropomotron.gif",
+    description:"Explore this Museum of biological anthropology.",
+    link: "https://www.anvropomotron.com",
+  },
+  {
     title: "{{MarsX}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/marsx.gif",
     description:"Year is 5098, Extraterrestrial Intelligence has taken over Artificial Intelligence. Final Stand to defend to the Human Race.",
