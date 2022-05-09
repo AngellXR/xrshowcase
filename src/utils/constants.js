@@ -13,6 +13,12 @@ export const CARDINFO = Object.freeze([
   // adding comment for later to test
   //and this one too
   {
+    title: "{{Santas Workshop}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/santaworkshop.gif",
+    description:"Be­come an Elf and take con­trol of Santa’s Work­shop. Ful­fill the wishes of the chil­dren by wrap­ping gifts and try not to make them cry...",
+    link: "https://constructarcade.com/game/santas-workshop/",
+  },
+  {
     title: "{{AnVRopomotron}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/anvropomotron.gif",
     description:"Explore this Museum of biological anthropology.",
