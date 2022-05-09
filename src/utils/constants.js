@@ -12,12 +12,14 @@ export const CARDINFO = Object.freeze([
   // Have to comment two submissions out until I can get a better gif
   // adding comment for later to test
   //and this one too
-  {
-    title: "{{Santas Workshop}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/santaworkshop.gif",
-    description:"Be­come an Elf and take con­trol of Santa’s Work­shop. Ful­fill the wishes of the chil­dren by wrap­ping gifts and try not to make them cry...",
-    link: "https://constructarcade.com/game/santas-workshop/",
-  },
+  
+  //commenting out Santas Workshop until ezgif is repaired. 
+  //{
+    //title: "{{Santas Workshop}}",
+    //imgURL: "https://d3i9te5634opuo.cloudfront.net/santaworkshop.gif",
+    //description:"Be­come an Elf and take con­trol of Santa’s Work­shop. Ful­fill the wishes of the chil­dren by wrap­ping gifts and try not to make them cry...",
+   // link: "https://constructarcade.com/game/santas-workshop/",
+ // },
   {
     title: "{{AnVRopomotron}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/anvropomotron.gif",
