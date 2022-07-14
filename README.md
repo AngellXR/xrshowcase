@@ -4,7 +4,7 @@ We seek to lift up other XR creators and guide the community towards open access
 
 To contribute your project to XR Showcase, we just need a URL. It is recommended that you use tools, and frameworks that result in cross-compatible experiences.
 
-To improve XRShowcase, please fork and submit a PR. The person writing this is a product manager. Save me from myself. <3
+To improve XRShowcase, please fork and submit a PR. Save me from myself. <3
 
 # What does AngellXR do?
 
