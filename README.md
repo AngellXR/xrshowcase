@@ -12,6 +12,8 @@ AngellXR is dedicated to the open Metaverse. We believe anyone can add value to 
 
 We strive to make everything we do leverage and contribute towards open source protocols. It has to be bigger than one person.
 
+This repo is federated with the AngellXR `#xrshowcase` [discord channel](https://discord.gg/6YyVdhzkHH)
+
 # Adding experiences to this site 
 Option 1: 
 - Visit [this google form](https://forms.gle/UfpUuKmvXQGjuX737) to submit new experiences  
