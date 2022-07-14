@@ -1,5 +1,5 @@
-# AngellXR is fully dedicated to the open Metaverse. 
-### https://xrshowcase.xyz
+# XRShowcase
+### [https://xrshowcase.xyz](https://xrshowcase.xyz)
 We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
 
 To contribute your project to XR Showcase, we just need a URL. It is recommended that you use tools, and frameworks that result in cross-compatible experiences.
@@ -8,9 +8,9 @@ To improve XRShowcase, please fork and submit a PR. The person writing this is a
 
 # What does AngellXR do?
 
-We are an open community dedicated to the open Metaverse. We believe everyone can add value to and benefit from the Metaverse. We believe in lifting each other up as the Metaverse is bigger than all of us. We value mobile first (while we still have phones) as it lowers the barrier to entry for users to experience the Metaverse.
+AngellXR is dedicated to the open Metaverse. We believe anyone can add value to and benefit from the Metaverse. We believe in lifting each other up as the Metaverse is bigger than all of us. We value as it lowering the barriers to entry for users to experience the Metaverse.
 
-We strive to make everything we do open source, and expandable. It has to be bigger than one person.
+We strive to make everything we do leverage and contribute towards open source protocols. It has to be bigger than one person.
 
 # Adding experiences to this site 
 Option 1: 
