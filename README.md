@@ -1,5 +1,9 @@
 # XRShowcase
 ### [https://xrshowcase.xyz](https://xrshowcase.xyz)
+
+[![image](https://user-images.githubusercontent.com/63426722/179009684-082dc438-245b-40db-a61a-cc22a4fa3e9d.png)](https://xrshowcase.xyz)
+
+
 We seek to lift up other XR creators and guide the community towards open access for all. XRShowcase is the first open product we've launched, intended to link-to and showcase other XR creations.
 
 To contribute your project to XR Showcase, we just need a URL. It is recommended that you use tools, and frameworks that result in cross-compatible experiences.
