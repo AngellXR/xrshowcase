@@ -21,6 +21,12 @@ export const CARDINFO = Object.freeze([
    // link: "https://constructarcade.com/game/santas-workshop/",
  // },
   {
+    title: "{{thirdroom}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/thirdroom.gif",
+    description:"an open, standards-based, decentralised vision of the metaverse for the open Web, built entirely on Matrix… without crypto, NFTs or walled gardens.",
+    link: "https://thirdroom.io/",
+  },
+  {
     title: "{{AnVRopomotron}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/anvropomotron.gif",
     description:"Explore this Museum of biological anthropology.",
@@ -399,12 +405,12 @@ export const CARDINFO = Object.freeze([
     description: "Mozilla hubs is a place to meet friends, host events, and experiment with webxr.",
     link: "https://hubs.mozilla.com/",
   },
-  {
-    title: "{{ChessVR}}",
-    imgURL: "https://d3i9te5634opuo.cloudfront.net/chessvr.gif",
-    description: "aframe Chess, because we can.",
-    link: "https://chessvr.glitch.me/",
-  },
+  // {
+  //   title: "{{ChessVR}}",
+  //   imgURL: "https://d3i9te5634opuo.cloudfront.net/chessvr.gif",
+  //   description: "aframe Chess, because we can.",
+  //   link: "https://chessvr.glitch.me/",
+  // },
   {
     title: "{{Hounds, Sunset}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/houndwalk.gif",
