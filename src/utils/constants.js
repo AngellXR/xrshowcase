@@ -21,6 +21,18 @@ export const CARDINFO = Object.freeze([
   // link: "https://constructarcade.com/game/santas-workshop/",
   // },
   {
+    title: "{{SubstrataVR}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/substrata.gif",
+    description: "Substrata is a multi-user cyberspace/metaverse. Chat with other users or explore objects and places that other users have created.",
+    link: "https://substrata.info/parcel/1213",
+  },
+  {
+    title: "{{oncyber}}",
+    imgURL: "https://d3i9te5634opuo.cloudfront.net/oncyber.gif",
+    description: "The Angell loung in oncyber platform. Build your own world and experience with others. oncyber is a multiverse",
+    link: "https://oncyber.io/angell",
+  },
+  {
     title: "{{PuttClub}}",
     imgURL: "https://d3i9te5634opuo.cloudfront.net/puttclub.gif",
     description: "A testbed for metaverse interoperability from the Ethereal Engine team. Golf as your custom avatar with friends! (Note: headset req.)",
