@@ -12,7 +12,9 @@ const StyledCardTitle = styled.div`
   top: 12px;
 
   /* Inside Auto Layout */
-
+display:flex;
+justify-content: center;
+align-items: center;
   flex: none;
   order: 0;
   flex-grow: 0;
